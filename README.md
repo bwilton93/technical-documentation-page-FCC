@@ -1,1 +1,1 @@
-# technical-documentaiton-page-FCC
+# technical-documentation-page-FCC
